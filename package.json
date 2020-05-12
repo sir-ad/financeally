@@ -7,4 +7,11 @@
   "dependencies": {
     "serve": "latest"
   }
+  "scripts": {
+    ...    
+    "deploy": "yarn run build && now ./build --name=myapp-spa",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    ...
+  }
 }
