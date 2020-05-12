@@ -3,26 +3,13 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+FinanceALLY.
 
-### Features
+During your journey in MBA/CFA you might require to learn many things along with your college/univeristy curriculum.
+As your FinaceALLY I will help you find out the top most courses/modules/lectures/certificates you can avail Online.
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+Follow me on [Instagram](https://instagram.com/stan.ad).
 
-### Screenshot
+Buy me a [Coffee](https://paypal.me/stanad)?
 
-![Screenshot](screenshot.png)
+Cheers!
