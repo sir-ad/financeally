@@ -1,17 +1,5 @@
 {
-  "name": "FinanceALLY",
-  "version": "1.0.0",
   "scripts": {
-    "start": "serve --single --cache=60000"
-  },
-  "dependencies": {
-    "serve": "latest"
-  }
-  "scripts": {
-        
-    "deploy": "yarn run build && now ./build --name=FinanceALLY",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    
+    "build": "jekyll build && mv _site public"
   }
 }
