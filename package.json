@@ -1,5 +1,5 @@
 {
-  "name": "FinanceAllY",
+  "name": "FinanceALLY",
   "version": "1.0.0",
   "scripts": {
     "start": "serve --single --cache=60000"
@@ -8,10 +8,10 @@
     "serve": "latest"
   }
   "scripts": {
-    ...    
-    "deploy": "yarn run build && now ./build --name=myapp-spa",
+        
+    "deploy": "yarn run build && now ./build --name=FinanceALLY",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    ...
+    
   }
 }
