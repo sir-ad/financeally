@@ -1,7 +1,6 @@
 {
   "version": 2,
   "name": "FinanceALLY",
-  "alias": ["https://financeally.now.sh/"],
   "builds": [
     { "src": "build.sh", "use": "@now/static-build", "config": { "distDir": "_site" } }
   ],
