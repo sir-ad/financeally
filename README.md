@@ -6,4 +6,4 @@ During your journey in MBA/CFA you might require to learn many things along with
 
 ________________________________
 
-# [Follow me](www.dataninja.in) | [Buy me a coffee]((www.paypal.me/stanad))
+##### [Follow me](www.dataninja.in) | [Buy me a coffee]((www.paypal.me/stanad))
