@@ -1,17 +1,17 @@
-site: Sidey
+site: FinanceALLY
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: FinanceALLY
+description: FinaceALLY will help you find out the top most courses/modules/lectures/certificates you can attend Online.
 twitter:
   username: #yourusername
   card: summary
   creator: #yourusername
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: agrahari_adarsh
+  name: Adarsh Agrahari
   avatar:
-  email: #youremail
-  url: #yoururl
+  email: adarsh@dataninja.in
+  url: dataninja.in
 permalink: pretty
 
 baseurl: ""
