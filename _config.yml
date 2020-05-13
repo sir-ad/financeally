@@ -1,6 +1,7 @@
 site: FinanceALLY
 url: 
 title: FinanceALLY
+name: FinanceALLY
 description: FinaceALLY will help you find out the top most courses/modules/lectures/certificates you can attend Online.
 twitter:
   username: #yourusername
@@ -12,11 +13,15 @@ author:
   avatar:
   email: adarsh@dataninja.in
   url: dataninja.in
-permalink: pretty
+permalink: /:title/
 
 baseurl: ""
 
-highlighter: none
+highlighter: rouge
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
 
 exclude:
   - .jekyll-cache
