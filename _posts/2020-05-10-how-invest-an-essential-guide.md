@@ -1,9 +1,11 @@
 ---
 layout: post
-title: How to invest: An essential guide
-description: Here it is: all you need to know about how to invest — even if you're a beginner.
+title: How to invest - An essential guide
+description: Here it is - all you need to know about how to invest, even if you're a beginner.
+summary: How to be good at Investing.
 tags: [invest,finance,guide]
 ---
+
 
 In writing this article, I tried not to bog it down with jargon and definitions. (I'm sure I let some of that slip through the cracks, though. I apologize.) Nor did I dive deep. Instead, I aimed to share the basic info you need to get started with investing.
 
