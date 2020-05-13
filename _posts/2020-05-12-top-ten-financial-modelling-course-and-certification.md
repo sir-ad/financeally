@@ -28,6 +28,7 @@ If you are looking for a hands-on financial modeling in Excel training then this
 
 **Duration:** **8 hours**
 
+**Rating: 4.8 out of 5**
 
 
 
