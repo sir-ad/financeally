@@ -246,10 +246,8 @@ So these were the 10 Best Financial Modeling Tutorial, Class, Course, Training &
 
 
 
-*This post is written by : [Adarsh Agrahari](www.dataninja.in)* 
+*This post is written by : [Adarsh Agrahari](https://www.dataninja.in)* 
 
-> Buy me a [Coffee](www.paypal.me/stanad) ? | Follow me on
-> [Instagram](www.instagram.com/stan.ad)  Interested in some
-> [Poetry](iamadarsh.wordpress.com)? | Want to read about [Machine
-> Learning](www.dataninja.in) ? Want to see my [pathetic
-> drawings](thegoodbadpicture.now.sh) ?
+> Buy me a [Coffee](https://www.paypal.me/stanad) ? | Follow me on [Instagram](https://www.instagram.com/stan.ad)  
+> Interested in some [Poetry](https://iamadarsh.wordpress.com)? | Want to read about [Machine Learning](https://www.dataninja.in) ? 
+> Want to see my [pathetic drawings](https://thegoodbadpicture.now.sh) ?
