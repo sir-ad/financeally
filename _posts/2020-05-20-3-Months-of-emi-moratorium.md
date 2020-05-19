@@ -47,3 +47,9 @@ _**Same is true for outstanding balance on credit cards.**_
 
 The only benefit you will get here is that you will not be paying any kind of penalty and it won’t be reported to CIBIL.
 
+### Update from various banks
+
+Here is a notification from SBI bank and ICICI bank to its customers that interest will still be charged on the outstanding balance if one wants to avail this benefit.
+
+![enter image description here](https://www.jagoinvestor.com/wp-content/uploads/files/SBI-bank-emi-moratorium-notification.png)
+
