@@ -53,3 +53,25 @@ Here is a notification from SBI bank and ICICI bank to its customers that intere
 
 ![enter image description here](https://www.jagoinvestor.com/wp-content/uploads/files/SBI-bank-emi-moratorium-notification.png)
 
+
+![enter image description here](https://www.jagoinvestor.com/wp-content/uploads/files/icici-emi-moratorium-notification.png)
+
+Most of the banks have also clarified that to take this benefit, one has to contact the bank and ask for this benefit. If you don’t take any action, then the EMI will get deducted as usual.
+
+### Should you opt for EMI Moratorium benefit?
+
+By now, you must have understood that this benefit is not for someone who is not facing severe financial crunch or whose income/salary is going to go down due to coronavirus impact. So if you can easily pay off your EMI’s, then please do so and don’t opt for this moratorium benefit.
+
+It’s only for someone who is going to see salary loss, job loss and is facing very hard time financially due to this lock down. They are getting TIME from bank side and nothing else.
+
+Do let us know what you feel about it in comments section.
+
+
+----
+
+*This post is written by : [Adarsh Agrahari](https://www.dataninja.in)* 
+
+> Buy me a [Coffee](https://www.paypal.me/stanad) ? | Follow me on [Instagram](https://www.instagram.com/stan.ad)  
+> Interested in some [Poetry](https://iamadarsh.wordpress.com)? | Want to read about [Machine Learning](https://www.dataninja.in) ? 
+> Want to see my [pathetic drawings](https://thegoodbadpicture.now.sh) ?
+
