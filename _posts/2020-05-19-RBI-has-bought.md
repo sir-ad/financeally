@@ -57,4 +57,8 @@ We have a two hour workshop ([Register now](https://insider.in/deepakshenoys-how
 In fact, you’ll realize why this is one reason that Gilt funds have given stellar returns in the last few months even when other debt funds have been shaky.
 ____________
 
-Source : https://www.capitalmind.in
+*This post is written by : [Adarsh Agrahari](https://www.dataninja.in)* 
+
+> Buy me a [Coffee](https://www.paypal.me/stanad) ? | Follow me on [Instagram](https://www.instagram.com/stan.ad)  
+> Interested in some [Poetry](https://iamadarsh.wordpress.com)? | Want to read about [Machine Learning](https://www.dataninja.in) ? 
+> Want to see my [pathetic drawings](https://thegoodbadpicture.now.sh) ?
