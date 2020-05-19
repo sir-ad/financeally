@@ -40,5 +40,12 @@ The expansion of the balance sheet has been huge, but most of the expansion come
 
 It’s important to understand that RBI buying government bonds is not to finance the government, though that becomes a by-product. The government wants the market to buy 30,000 cr. of bonds per week, and if the RBI is also buying 30,000 cr. from the market, a market player like a bank or a mutual fund has to just buy bonds from the government and sell them to the RBI.
 
+This is good; it reduces rates because if they don’t do this, the safest instrument in India (the government bond) will fall in price due to massive supply, and a fall in price is a rise in yield or interest rate.
+
+A rise in yield in the safest instrument means every other instrument will see a rise in yields, which will effectively raise interest rates for all corporates. Not a good thing in a crisis like #Covid19.
+
+Will this cause inflation? Possibly, but we haven’t seen demand destruction like this ever, and inflation is a function of demand as much as of supply. In a crisis like Covid19, when the western central banks are printing like it’s going out of fashion, it’s nice to see the RBI also keep its printing presses running to buy Indian bonds rather than only buying dollars.
+
+### How Does This Impact Me? My Mutual Funds?
 
 
