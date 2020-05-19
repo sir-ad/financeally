@@ -26,3 +26,19 @@ The RBI will not directly buy bonds from the government. The government issues b
 
 Meaning, the RBI can print money to buy these bonds. When money is printed it will go to the seller of the bond, who now has the money. That money can then be made available for lending or for chasing other opportunities. In a parallel effect, since the RBI buys government bonds, the yield on government bonds reduces. That makes them unattractive to keep. So the people who sell bonds to them can go buy private or PSU bonds (which the RBI doesn’t buy). Which helps reduces rates across the system.
 
+### Is This Bad? Good? Better Than The Fed?
+
+The RBI Balance Sheet is up 33% in the last one year, but not only because of this. The balance sheet itself is up because of three factors:
+
+-   Total buying of roughly 209,000 cr. of government bonds – taking RBI ownership to 11 lakh cr.
+-   Total buying of over $45 bn (312,000 cr.) of foreign currency assets
+-   Dollar depreciation of about 10% which resulted in RBI ownership ballooning to 34 lakh cr.
+
+The expansion of the balance sheet has been huge, but most of the expansion comes only from the RBI purchase of US Dollars, not of Indian government bonds.
+
+![enter image description here](https://mk0capitalmind1w5wn3.kinstacdn.com/wp-content/uploads/2020/05/RBI-Holding-of-Assets.jpg)
+
+It’s important to understand that RBI buying government bonds is not to finance the government, though that becomes a by-product. The government wants the market to buy 30,000 cr. of bonds per week, and if the RBI is also buying 30,000 cr. from the market, a market player like a bank or a mutual fund has to just buy bonds from the government and sell them to the RBI.
+
+
+
