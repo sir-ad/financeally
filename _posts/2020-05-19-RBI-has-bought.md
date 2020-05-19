@@ -48,4 +48,13 @@ Will this cause inflation? Possibly, but we haven’t seen demand destruction li
 
 ### How Does This Impact Me? My Mutual Funds?
 
+We have a two hour workshop ([Register now](https://insider.in/deepakshenoys-how-to-understand-invest-in-debt-mutual-funds-masterclass-may23-2020-digital-online-event/event)) on 23rd May 2020, on the concept of Debt Funds. We’ll go into some detail helping you understand how this impacts:
 
+-   Your shorter term debt mutual funds
+-   Longer term oriented gilt funds
+-   Why it’s important to see what the RBI is doing, Inflation impact, and the Crowding effect
+
+In fact, you’ll realize why this is one reason that Gilt funds have given stellar returns in the last few months even when other debt funds have been shaky.
+____________
+
+Source : https://www.capitalmind.in
