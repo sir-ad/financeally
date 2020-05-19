@@ -22,3 +22,7 @@ This may not sound big to you, but it effectively does two things:
 
 ### How does the RBI buy government bonds?
 
+The RBI will not directly buy bonds from the government. The government issues bonds to the market (banks, mutual funds, insurers etc. are buyers). The RBI then goes to the market and buys bonds – usually different bonds from the ones sold. But the RBI does this for a different purpose – for liquidity management, usually.
+
+Meaning, the RBI can print money to buy these bonds. When money is printed it will go to the seller of the bond, who now has the money. That money can then be made available for lending or for chasing other opportunities. In a parallel effect, since the RBI buys government bonds, the yield on government bonds reduces. That makes them unattractive to keep. So the people who sell bonds to them can go buy private or PSU bonds (which the RBI doesn’t buy). Which helps reduces rates across the system.
+
