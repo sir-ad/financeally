@@ -33,3 +33,17 @@ No, looks like you will have to apply for this benefit in case you wish to and o
 A lot of investors are showing their happiness about this RBI notification and feeling like they are getting some very big benefit. However in reality it’s opposite and it’s suggested for you to NOT take this benefit.
 
 If someone takes this moratorium benefit, they interest will be accruing on the outstanding balance and you will have to pay the interest at the end of 3 months. Their EMI will start getting deducted after 3 months.
+
+
+![enter image description here](https://www.jagoinvestor.com/wp-content/uploads/files/EMI-moratorium-interest-1.png)
+
+What it means is that assume someone has a 30 lacs of home loan, and an EMI of 30,000 (just a random assumption) and interest rate is 8% , then one month interest will be Rs 20,000 (30 lacs * 8% = 2.4 lacs yearly .. Divide that by 12 to get monthly interest = 20,000)
+
+And for 3 months, it will be Rs 60,000 additional simple interest. This additional interest will be added to your outstanding balance and your tenure will go up.
+
+![enter image description here](https://www.jagoinvestor.com/wp-content/uploads/files/EMI-moratorium-interest.png)
+
+_**Same is true for outstanding balance on credit cards.**_
+
+The only benefit you will get here is that you will not be paying any kind of penalty and it won’t be reported to CIBIL.
+
