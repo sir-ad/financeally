@@ -15,7 +15,7 @@ Through the Covid19 Crisis, the RBI has been buying government bonds, keeping th
 
 ![enter image description here](https://mk0capitalmind1w5wn3.kinstacdn.com/wp-content/uploads/2020/05/RBI-Buys-Govt-Bond-1.jpg)
 
-This may not sound big to you, but it effectively does two things:
+This may not sound big to you, but it effectively does two things-
 
 -   **reduces the interest rates**  that the government has to pay, and then, in the whole system
 -   keeps the system  **flush with liquidity**, which is important in a crisis.
