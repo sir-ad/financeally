@@ -67,7 +67,7 @@ It’s only for someone who is going to see salary loss, job loss and is facing 
 Do let us know what you feel about it in comments section.
 
 
-----
+--
 
 *This post is written by : [Adarsh Agrahari](https://www.dataninja.in)* 
 
