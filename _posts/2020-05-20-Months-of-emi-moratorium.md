@@ -6,7 +6,6 @@ summary: 3 months EMI Moratorium benefit
 tags: [moratorium,EMI,guide,banks]
 ---
 
-# 3 months EMI Moratorium benefit – Why you should NOT opt?
 
 Today, there was a news about 3 months moratorium (which means a temporary relief) benefit on all kind of loans and how investors won’t have to pay their EMI for 3 months. However it was celebrated by investors without understanding it fully.
 
